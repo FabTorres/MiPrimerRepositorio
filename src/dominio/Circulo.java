@@ -4,8 +4,8 @@ public class Circulo {
 	private Double radio = 135.0;
 	
 	public Double getRadio(){
-		return radio;
+		System.out.println("hola");
+		return radio;		
 	}
-	
-	
+
 }
